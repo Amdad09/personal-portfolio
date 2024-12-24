@@ -1,0 +1,17 @@
+ul li:hover{
+    color: black;
+    font-size: large;
+    background-color: orange;
+    font-weight: 500;
+}
+.sticky{
+    position: sticky;
+    top: 0;
+}
+ul li{
+    font-size: large; 
+    padding: 5px 10px;
+    font-weight: 500;
+    border-radius: 19px;
+    transition: font-size 0.3s ease; 
+}
